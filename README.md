@@ -22,4 +22,4 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 ## About my API
-This is an API Rest developed in Laravel using Laravel Sanctum Authentication and totally functional CRUD with relational tables with protected api routes.
+This is an API Rest developed in Laravel using Laravel Sanctum Authentication and totally functional CRUD with protected api routes.
